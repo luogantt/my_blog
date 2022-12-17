@@ -1,0 +1,20 @@
+{{ partial "head.html" . }}
+<body>
+  <header>
+    {{ partial "header.html" . }}
+  </header>
+  <div id="container">
+    <div id="main">
+      {{ range $index,$data := first 10 (where site.RegularPages "Type" "post") }}
+      {{ partial "article.html" $data }}
+      {{ end }}
+      <nav id="page-nav" class="clearfix">
+        <a class="page-number" href="{{ .Site.BaseURL }}post/">More...</a>
+      </nav>
+    </div>
+    {{ partial "sidebar.html" . }}
+  </div>
+  <footer>{{ partial "footer.html" . }}</footer>
+  {{ partial "after_footer.html" .}}
+</body>
+</html>

@@ -1,0 +1,170 @@
+Building sites … 
+                   | EN | ZH  
+-------------------+----+-----
+  Pages            | 26 | 26  
+  Paginator pages  |  0 |  0  
+  Non-page files   |  0 |  0  
+  Static files     | 18 | 18  
+  Processed images |  0 |  0  
+  Aliases          | 11 | 10  
+  Sitemaps         |  2 |  1  
+  Cleaned          |  0 |  0  
+
+Built in 221 ms
+Watching for changes in /home/rosmell/{archetypes,content,data,layouts,static,themes}
+Watching for config changes in /home/rosmell/config.toml
+Environment: "development"
+Serving pages from memory
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://155.138.136.124:8080/ (bind address 0.0.0.0)
+Press Ctrl+C to stop
+
+Change detected, rebuilding site.
+2022-12-12 03:58:50.014 +0000
+Source changed "/home/rosmell/content/blog/fpga_chafen.md": WRITE
+Total in 2 ms
+ERROR 2022/12/12 03:58:50 Rebuild failed:
+
+ERROR 2022/12/12 03:58:50 "/home/rosmell/content/blog/fpga_chafen.md:1:1": plain HTML documents not supported
+
+Change detected, rebuilding site.
+2022-12-12 03:59:01.014 +0000
+Source changed "/home/rosmell/content/blog/fpga_chafen.md": WRITE
+Total in 3 ms
+ERROR 2022/12/12 03:59:01 Rebuild failed:
+
+ERROR 2022/12/12 03:59:01 "/home/rosmell/content/blog/fpga_chafen.md:1:1": plain HTML documents not supported
+
+Change detected, rebuilding site.
+2022-12-12 04:01:28.014 +0000
+Source changed "/home/rosmell/content/blog/fpga_chafen.md": WRITE
+Total in 3 ms
+ERROR 2022/12/12 04:01:28 Rebuild failed:
+
+ERROR 2022/12/12 04:01:28 "/home/rosmell/content/blog/fpga_chafen.md:10:1": failed to unmarshal YAML: yaml: line 6: could not find expected ':'
+
+Change detected, rebuilding site.
+2022-12-12 04:02:33.014 +0000
+Source changed "/home/rosmell/content/blog/fpga_chafen.md": WRITE
+Total in 5 ms
+ERROR 2022/12/12 04:02:33 Rebuild failed:
+
+ERROR 2022/12/12 04:02:33 "/home/rosmell/content/blog/fpga_chafen.md:10:1": failed to unmarshal YAML: yaml: line 6: could not find expected ':'
+
+Change detected, rebuilding site.
+2022-12-12 04:03:37.014 +0000
+Source changed "/home/rosmell/content/blog/fpga_chafen.md": WRITE
+Total in 43 ms
+
+Change detected, rebuilding site.
+2022-12-12 04:05:57.014 +0000
+Source changed "/home/rosmell/content/blog/fpga_chafen.md": WRITE
+Total in 40 ms
+
+Change detected, rebuilding site.
+2022-12-12 04:07:03.014 +0000
+Source changed "/home/rosmell/content/blog/fpga_chafen.md": WRITE
+Total in 28 ms
+
+Change detected, rebuilding site.
+2022-12-12 04:08:17.014 +0000
+Source changed "/home/rosmell/content/blog/fpga_chafen.md": RENAME
+Source changed "/home/rosmell/content/blog/fpga_chafen.zh.md": CREATE
+Total in 48 ms
+
+Change detected, rebuilding site.
+2022-12-12 04:12:18.014 +0000
+Source changed "/home/rosmell/content/blog/fpga_chafen.zh.md": WRITE
+Total in 45 ms
+
+Change detected, rebuilding site.
+2022-12-12 04:15:16.014 +0000
+Source changed "/home/rosmell/content/blog/fpga_chafen.zh.md": WRITE
+Total in 44 ms
+adding created directory to watchlist /home/rosmell/content/blog/fpga
+
+Change detected, rebuilding site.
+2022-12-12 04:16:26.014 +0000
+Total in 23 ms
+
+Change detected, rebuilding site.
+2022-12-12 04:16:39.014 +0000
+Source changed "/home/rosmell/content/blog/fpga_chafen.zh.md": RENAME
+Source changed "/home/rosmell/content/blog/fpga/fpga_chafen.zh.md": CREATE
+Total in 41 ms
+
+Change detected, rebuilding site.
+2022-12-12 04:18:04.014 +0000
+Source changed "/home/rosmell/content/blog/fpga/fpga_chafen.zh.md": WRITE
+Total in 27 ms
+
+Change detected, rebuilding site.
+2022-12-12 04:18:34.014 +0000
+Source changed "/home/rosmell/content/blog/fpga_chafen.zh.md": WRITE
+Total in 33 ms
+
+Change detected, rebuilding site.
+2022-12-12 04:19:12.014 +0000
+Source changed "/home/rosmell/content/blog/fpga_chafen.zh.md": REMOVE
+Total in 28 ms
+
+Change detected, rebuilding site.
+2022-12-12 04:19:39.014 +0000
+Source changed "/home/rosmell/content/blog/fpga/fpga_chafen.zh.md": WRITE
+Total in 52 ms
+
+Change detected, rebuilding site.
+2022-12-12 04:20:37.014 +0000
+Source changed "/home/rosmell/content/blog/fpga/fpga_chafen.zh.md": WRITE
+Total in 28 ms
+
+Change of Static files detected, rebuilding site.
+2022-12-12 04:27:02.015 +0000
+Syncing images/thumbnail/fpga.png to /
+
+Change of Static files detected, rebuilding site.
+2022-12-12 04:27:03.014 +0000
+Syncing images/thumbnail/fpga.png to /
+
+Change detected, rebuilding site.
+2022-12-12 04:28:08.014 +0000
+Source changed "/home/rosmell/content/blog/fpga/fpga_chafen.zh.md": WRITE
+Total in 30 ms
+
+Change detected, rebuilding site.
+2022-12-12 12:09:56.014 +0000
+Source changed "/home/rosmell/content/blog/fpga/fpga_chafen.zh.md": WRITE
+Total in 33 ms
+adding created directory to watchlist /home/rosmell/content/blog/history_philosiphy
+
+Change detected, rebuilding site.
+2022-12-13 06:04:42.015 +0000
+Total in 28 ms
+
+Change detected, rebuilding site.
+2022-12-13 06:05:20.014 +0000
+WARN 2022/12/13 06:05:20 Module "project" is not compatible with this Hugo version; run "hugo mod graph" for more information.
+Rebuilt in 264 ms
+
+Change detected, rebuilding site.
+2022-12-13 06:05:25.014 +0000
+Source changed "/home/rosmell/content/blog/history_philosiphy/mozhi.zh.md": WRITE
+Total in 2 ms
+ERROR 2022/12/13 06:05:25 Rebuild failed:
+
+ERROR 2022/12/13 06:05:25 "/home/rosmell/content/blog/history_philosiphy/mozhi.zh.md:1:1": plain HTML documents not supported
+
+Change detected, rebuilding site.
+2022-12-13 06:10:01.015 +0000
+Source changed "/home/rosmell/content/blog/history_philosiphy/mozhi.zh.md": WRITE
+Total in 48 ms
+
+Change detected, rebuilding site.
+2022-12-13 06:20:51.014 +0000
+Source changed "/home/rosmell/content/blog/history_philosiphy/mozhi.zh.md": WRITE
+Total in 34 ms
+
+Change detected, rebuilding site.
+2022-12-13 06:21:30.014 +0000
+Source changed "/home/rosmell/content/blog/history_philosiphy/mozhi.zh.md": WRITE
+Total in 34 ms
