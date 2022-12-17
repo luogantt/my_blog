@@ -74,9 +74,8 @@ headline:
 这些人吧，你说他们有钱，但不是富豪。你说他们没钱，但不穷。这些人可以买得起大圆盾，重甲（青铜或者亚麻），长矛，大砍刀，头盔，腿甲这些昂贵的全套重步兵装备。他们就是一个城邦的主力部队了。
 
 
- {{< figure src="/home/oem/my_blog/rosmell/content/blog/history_philosiphy/什么是民主/2.jpg" title="图片的文字说明">}}
- 
-![Image text](./2.jpg)
+{{< figure src="https://github.com/luogantt/my_blog/blob/master/rosmell/content/blog/history_philosiphy/什么是民主/2.jpg" title="图片的文字说明">}}
+
 
 所以，这群中产阶级，就成为了城邦战争中的关键。你大贵族再厉害也不可能靠自己的骑兵队打赢战争吧，还是要仰仗这些人。
 
