@@ -1,6 +1,6 @@
 ---
 title: "什么是真正的民主？"
-date: 2022-12-17T12:15:33+08:00
+date: 2022-12-16T02:10:33+08:00
 draft: false
 author: "sealong"
 categories: "history"
