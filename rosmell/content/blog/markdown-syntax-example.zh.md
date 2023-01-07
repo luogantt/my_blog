@@ -76,6 +76,13 @@ Walden 主题使用标准的 markdown 语法编辑内容，本文演示了构成
 
 {{< figure src="https://img.zcool.cn/community/01acdb5c6bb11fa801213f266dfb69.jpg@1280w_1l_2o_100sh.jpg" title="图片的文字说明">}}
 
+## 图片在本地
+
+```
+{{< figure src="images/headline/hugo-theme-walden.jpg" title="图片的文字说明">}}
+```
+{{< figure src="images/headline/hugo-theme-walden.jpg" title="图片的文字说明">}}
+
 ## 表格
 
 <div class="container-table">
