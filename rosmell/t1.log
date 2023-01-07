@@ -168,3 +168,34 @@ Change detected, rebuilding site.
 2022-12-13 06:21:30.014 +0000
 Source changed "/home/rosmell/content/blog/history_philosiphy/mozhi.zh.md": WRITE
 Total in 34 ms
+Building sites … 
+                   | EN | ZH  
+-------------------+----+-----
+  Pages            | 26 | 36  
+  Paginator pages  |  0 |  0  
+  Non-page files   |  0 |  0  
+  Static files     | 19 | 19  
+  Processed images |  0 |  0  
+  Aliases          | 11 | 14  
+  Sitemaps         |  2 |  1  
+  Cleaned          |  0 |  0  
+
+Built in 319 ms
+Watching for changes in /home/my_blog/rosmell/{archetypes,content,data,layouts,static,themes}
+Watching for config changes in /home/my_blog/rosmell/config.toml
+Environment: "development"
+Serving pages from memory
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://155.138.136.124:8080/ (bind address 0.0.0.0)
+Press Ctrl+C to stop
+
+Change detected, rebuilding site.
+2022-12-17 06:13:06.303 +0000
+Source changed "/home/my_blog/rosmell/content/blog/history_philosiphy/democrace.md": WRITE
+Total in 28 ms
+
+Change detected, rebuilding site.
+2022-12-17 06:27:01.303 +0000
+Source changed "/home/my_blog/rosmell/content/blog/history_philosiphy/democrace.md": REMOVE
+Source changed "/home/my_blog/rosmell/content/blog/history_philosiphy/democrace.zh.md": WRITE
+Total in 25 ms
